@@ -1,0 +1,1 @@
+# TSLint rule disabling enums
