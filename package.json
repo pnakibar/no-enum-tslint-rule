@@ -1,12 +1,12 @@
 {
-  "name": "no-enum",
-  "version": "1.0.0",
+  "name": "no-enum-tslint-rule",
+  "version": "1.0.1",
   "description": "TSLint rule for disabling enums",
   "main": "index.js",
   "repository": "https://github.com/pnakibar/no-enum-tslint-rule",
   "author": {
     "name": "Pedro Mathias Nakibar",
-    "email": "pedro.nakibar@klarna.com"
+    "email": "pedronakibar@gmail.com"
   },
   "license": "MIT",
   "private": false
